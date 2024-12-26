@@ -1,0 +1,5 @@
+~$*
+*terraform*
+.DS_Store
+*00_provider-SETTINGS-vkl.auto.tfvars*
+credentials.sh
